@@ -43,3 +43,5 @@ Contact the Maintainer
 ----------------------
 
 paul@cravenfamily.com
+
+[![Run on Repl.it](https://repl.it/badge/github/pythonarcade/arcade)](https://repl.it/github/pythonarcade/arcade)
